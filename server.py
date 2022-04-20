@@ -1,2 +1,2 @@
-EMAIL = githubcloneextca7@gmail.com
-PASSWORD = GithubClone
+EMAIL = aniketjagdale@ternaengg.ac.in
+PASSWORD = *************
